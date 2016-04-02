@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.c
- * Author: Richard Ciampa
+ * Author: Richard Ciampa, Brandan Lockwood
  *
  * Created on March 16, 2016, 4:49 PM
  */
