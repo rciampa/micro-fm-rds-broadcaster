@@ -7,13 +7,13 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=GNU-Linux
-CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=rpifmbroancaster
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/rpifmbroancaster
-CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=rpifmbroancaster.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/rpifmbroancaster.tar
+CND_PLATFORM_Debug=Cygwin-Windows
+CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
+CND_ARTIFACT_NAME_Debug=rpifmbroadcaster
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/rpifmbroadcaster
+CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
+CND_PACKAGE_NAME_Debug=rpifmbroadcaster.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/rpifmbroadcaster.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux

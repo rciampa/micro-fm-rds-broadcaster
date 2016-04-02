@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=RpiFmBroancaster
+PROJECTNAME=RpiFmBroadcaster
 
 # Active Configuration
 DEFAULTCONF=Debug
